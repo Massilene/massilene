@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+ 
+ Atualmente estou fazendo o Bootcamp da Localiza na Digital Innovation One. Excelente plataforma de cursos on line e gratuito. Estou aprendendo muito.
+ Vou compartilhar com vocês minhas primeiras linhas de código. Sei que é um degrau de cada vez. Me sinto super animada para trabalhar neste área.
+ 
+ Gratidão a Deus, minha família e  à DIO.
 <!--
 **Massilene/massilene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
