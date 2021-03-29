@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fala, DEV!
  
  Atualmente estou fazendo o Bootcamp da Localiza na Digital Innovation One. Excelente plataforma de cursos on line e gratuito. Estou aprendendo muito.
  Vou compartilhar com vocês minhas primeiras linhas de código. Sei que é um degrau de cada vez. Me sinto super animada para trabalhar neste área.
